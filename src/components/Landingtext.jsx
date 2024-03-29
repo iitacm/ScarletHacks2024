@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-scroll';
 import { motion } from 'framer-motion';
-import favicon from '/Users/marknguyen/Documents/GitHub/ScarletHacks/src/pics/2hawkmemoji.png'; 
+import favicon from '/Users/marknguyen/Documents/GitHub/ScarletHacks2024/src/pics/2hawkmemoji.png'; 
 
 
 const Introtext = () => {

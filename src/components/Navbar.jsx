@@ -1,7 +1,7 @@
 import React, { useEffect, useState,useRef } from 'react';
 import { Link } from 'react-scroll';
 import { motion, useAnimation, useDragControls, } from 'framer-motion'; // Import useAnimation
-import favicon from '/Users/marknguyen/Documents/GitHub/ScarletHacks/src/pics/2hawkmemoji.png'; 
+import favicon from '/Users/marknguyen/Documents/GitHub/ScarletHacks2024/src/pics/2hawkmemoji.png'; 
 
 
 const Navbarstatic = () => {
