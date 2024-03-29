@@ -8,8 +8,8 @@ const links = [
     {name:'Linktree', href:'https://linktr.ee/acm.iit'}
   ] 
   const stats = [
-    { name: 'Playstation 5', value: '🥇 Prize' },
-    { name: 'Airpods Pro 2', value: '🥈 Prize' },
+    { name: 'Nintendo Switch Lite', value: '🥇 Prize' },
+    { name: 'Holy Stone GPS Drone', value: '🥈 Prize' },
     { name: 'Keychron K4', value: '🥉 Prize' },
 
   
